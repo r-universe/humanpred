@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "formulops"]
+	path = formulops
+	url = https://github.com/humanpred/formulops
 [submodule "hidradenitis"]
 	path = hidradenitis
 	url = https://github.com/humanpred/hidradenitis
