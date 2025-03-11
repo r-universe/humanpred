@@ -8,3 +8,6 @@
 [submodule "hidradenitis"]
 	path = hidradenitis
 	url = https://github.com/humanpred/hidradenitis
+[submodule "tabtibble"]
+	path = tabtibble
+	url = https://github.com/humanpred/tabtibble
