@@ -8,6 +8,9 @@
 [submodule "formulops"]
 	path = formulops
 	url = https://github.com/humanpred/formulops
+[submodule "ggtibble"]
+	path = ggtibble
+	url = https://github.com/humanpred/ggtibble
 [submodule "hidradenitis"]
 	path = hidradenitis
 	url = https://github.com/humanpred/hidradenitis
