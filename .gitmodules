@@ -20,3 +20,6 @@
 [submodule "tabtibble"]
 	path = tabtibble
 	url = https://github.com/humanpred/tabtibble
+[submodule "thinr"]
+	path = thinr
+	url = https://github.com/humanpred/thinr
