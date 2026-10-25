@@ -5,6 +5,9 @@
 [submodule "PKNCA"]
 	path = PKNCA
 	url = https://github.com/humanpred/pknca
+[submodule "cdiscdata"]
+	path = cdiscdata
+	url = https://github.com/humanpred/cdiscdata
 [submodule "formulops"]
 	path = formulops
 	url = https://github.com/humanpred/formulops
